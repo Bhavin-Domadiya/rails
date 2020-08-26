@@ -1,0 +1,34 @@
+  h1{
+    color: #E74C3C!important;
+    text-decoration: underline;
+  }
+  .btn{
+    background-color: #D6EAF8;
+    border-radius: 5px;
+    padding: 8px 20px;
+  }
+  .btn:hover{
+     background-color: #85C1E9;
+     color: #fff;
+  }
+  .btn a{
+    text-decoration:none; 
+    text-decoration-color: unset;
+  }
+  a:visited{
+    color:unset!important;
+  }
+  a:hover{
+    background-color: unset!important;
+  }
+  .btnp{
+    display: inline-block;
+  }
+  .actions .btn input:focus{
+    outline: none!important;
+  }
+  .btn input{
+    background-color: unset;
+    border: none;
+    /*color: #000;*/
+  }
